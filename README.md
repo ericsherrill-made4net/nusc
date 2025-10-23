@@ -1,6 +1,7 @@
 # NetApp Usable Space Calculator
 ## Forked from https://github.com/jpl1079/nusc & http://jpl1079.github.io/nusc/ originally
 ### user & repo unfortunately no longer available but all credit due to JOLAY_ARROW @ https://community.netapp.com/t5/user/viewprofilepage/user-id/1829
+### Possibly https://github.com/jpl1079 is now https://github.com/jlay79 ?
 #### See also: https://community.netapp.com/t5/ONTAP-Discussions/Web-based-Usable-Space-Calculator/m-p/105300#M21574 
 
 #### **This is not an official NetApp tool.**
